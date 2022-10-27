@@ -6,8 +6,8 @@
 
 ### Here are my current projects:
 
-## SSBU Visual
-An Object Oriented JavaScript Web Scraper for Smash Bro's Frame Data into a React Web Application [Repo](https://github.com/brettm13/SSBUVisual)
-
 ## Fix8
 A Python and PyQT5 tool for opening, visualizing, and analyzing eye tracking files [Repo](https://github.com/nalmadi/fix8)
+
+## SSBU Visual
+An Object Oriented JavaScript Web Scraper for Smash Bro's Frame Data into a React Web Application [Repo](https://github.com/brettm13/SSBU-Visual)
