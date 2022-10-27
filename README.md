@@ -1,8 +1,6 @@
-<h1 align="center">Hello!<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h1>
+<h1 align="center">Hello!<img src="https://user-images.githubusercontent.com/107492267/198205789-8c952dec-9927-40b9-9503-e2fad947524f.png" width="28px" height="28px" alt="hi"></h1>
 <h1 align="center">My name is Brett Torra</h1>
 <h3 align="center">A student at Colby College studying Computer Science</h3>
-
-
 
 ### Here are my current projects:
 
