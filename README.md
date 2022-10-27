@@ -1,9 +1,8 @@
-## Hello!
-## My name is Brett Torra, a student at Colby College studying Computer Science
+<h1 align="center">Hello!<img src=":handshake:" width="28px" height="28px" alt="hi"></h1>
+<h1 align="center">My name is Brett Torra</h1>
+<h3 align="center">A student at Colby College studying Computer Science</h3>
 
 
-<!--
-**brettmt13/brettmt13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
