@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hello!
+## My name is Brett Torra, a student at Colby College studying Computer Science
+
 
 <!--
 **brettmt13/brettmt13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
