@@ -6,7 +6,7 @@
 
 ### Here are my current projects:
 
-## SSBU Visal
+## SSBU Visual
 An Object Oriented JavaScript Web Scraper for Smash Bro's Frame Data into a React Web Application
 
 ## Fix8
