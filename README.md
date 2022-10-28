@@ -1,4 +1,4 @@
-<h1 align="center">Hello!<img src="https://user-images.githubusercontent.com/107492267/198205789-8c952dec-9927-40b9-9503-e2fad947524f.png" width="28px" height="28px" alt="hi"></h1>
+<h1 align="center">Hello! <img src="https://user-images.githubusercontent.com/107492267/198205789-8c952dec-9927-40b9-9503-e2fad947524f.png" width="28px" height="28px" alt="hi"></h1>
 <h1 align="center">My name is Brett Torra</h1>
 <h3 align="center">A student at Colby College studying Computer Science</h3>
 
