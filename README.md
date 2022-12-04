@@ -2,7 +2,7 @@
 <h1 align="center">I'm Brett Torra</h1>
 <h3 align="center">A student at Colby College studying Computer Science</h3>
 
-### Here are my current projects:
+# Here are my current projects:
 
 ## Fix8
 A tool that provides manual, automated, and semi-automated correction methods for eye tracking data in reading tasks with a graphical user interface. [Repo](https://github.com/nalmadi/fix8)
