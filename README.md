@@ -5,7 +5,7 @@
 ### Here are my current projects:
 
 ## Fix8
-A Python and PyQT5 tool for opening, visualizing, and using fully or semi automated analysis of eye tracking files [Repo](https://github.com/nalmadi/fix8)
+A tool that provides manual, automated, and semi-automated correction methods for eye tracking data in reading tasks with a graphical user interface. [Repo](https://github.com/nalmadi/fix8)
 
 ## SSBU Visual
-An Object Oriented JavaScript Web Scraper for Smash Bro's Frame Data [Repo](https://github.com/brettmt13/SSBU-Visual)
+A Java Script web scraper for Super Smash Bro’s Ultimate character data. [Repo](https://github.com/brettmt13/Smash-Ultimate-Scraper)
