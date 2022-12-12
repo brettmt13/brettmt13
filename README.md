@@ -11,4 +11,4 @@ A tool that provides manual, automated, and semi-automated correction methods fo
 A Java Script web scraper for Super Smash Bro’s Ultimate character data. [Repo](https://github.com/brettmt13/Smash-Ultimate-Scraper)
 
 # Here is what I'm currently learning
-- C# and .NET Development
+- C# with .NET Software Development
