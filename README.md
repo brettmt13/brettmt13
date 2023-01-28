@@ -1,6 +1,6 @@
-<h1 align="center">Hello! <img src="https://user-images.githubusercontent.com/107492267/198205789-8c952dec-9927-40b9-9503-e2fad947524f.png" width="28px" height="28px" alt="hi"></h1>
-<h1 align="center">I'm Brett Torra</h1>
-<h3 align="center">A student at Colby College studying Computer Science</h3>
+<h1 align="center">Hello, I'm Brett <img src="https://user-images.githubusercontent.com/107492267/198205789-8c952dec-9927-40b9-9503-e2fad947524f.png" width="28px" height="28px" alt="hi"></h1>
+
+[![Brett's GitHub stats](https://github-readme-stats.vercel.app/api?username=brettmt13)](https://github.com/brettmt13/github-readme-stats)
 
 # Here are my current projects:
 
@@ -11,4 +11,5 @@ A tool that provides manual, automated, and semi-automated correction methods fo
 A Java Script web scraper for Super Smash Bro’s Ultimate character data. [Repo](https://github.com/brettmt13/Smash-Ultimate-Scraper)
 
 # Here is what I'm currently learning
-- C# with .NET Software Development
+- C#
+- Java
