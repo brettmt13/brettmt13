@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Brett <img src="https://user-images.githubusercontent.com/107492267/198205789-8c952dec-9927-40b9-9503-e2fad947524f.png" width="28px" height="28px" alt="hi"></h1>
+<h1 align="center">Hello, I'm Brett></h1>
 
 [![Brett's GitHub stats](https://github-readme-stats.vercel.app/api?username=brettmt13)](https://github.com/brettmt13/github-readme-stats)
 
