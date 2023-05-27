@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Brett</h1>
 
-[![Brett's GitHub stats](https://github-readme-stats.vercel.app/api?username=brettmt13)](https://github.com/brettmt13/github-readme-stats)
+<!-- [![Brett's GitHub stats](https://github-readme-stats.vercel.app/api?username=brettmt13)](https://github.com/brettmt13/github-readme-stats) -->
 
 # Here are my current projects:
 
