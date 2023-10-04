@@ -10,6 +10,5 @@ A tool that provides manual, automated, and semi-automated correction methods fo
 ## Smash Ultimate Scraper
 A Java Script web scraper for Super Smash Bro’s Ultimate character data. [Repo](https://github.com/brettmt13/Smash-Ultimate-Scraper)
 
-# Here is what I'm currently learning
-- C#
-- Java
+## MLB Statistics Twitter Bot
+A twitter bot that posts the leaders in random MLB statistics each night. [Repo](https://github.com/brettmt13/mlb-stats-bot-twitter)
